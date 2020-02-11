@@ -1,0 +1,28 @@
+body{
+    font-family: Roboto, sans-serif !important ;    
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.myFileTable .rt-tbody .rt-td {
+    border-right: 0px solid !important;
+}
+.manageUser{
+    margin-bottom: 0px !important;
+    font-family: Roboto, sans-serif !important ;
+    color: black !important;
+    font-weight: bolder !important;
+}
+.actionCol, .actionCol div{
+    margin: 0px auto !important;
+    padding: 0px;
+    font-family: Roboto, sans-serif !important ;    
+}
+.chipInput div{
+    border: 0px solid transparent !important;
+    border-radius: 13px !important;
+
+}
+.positionCol, .editCol, .officeCol, .tagCol { 
+    padding-top: 23px !important;
+}
